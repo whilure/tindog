@@ -1,0 +1,2 @@
+# tindog
+startup idea project
